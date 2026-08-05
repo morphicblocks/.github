@@ -2,7 +2,7 @@
 
 # Morphic Blocks
 
-**Multi-modal programming, one block model.**
+**One definition, multiple representations.**
 
 An open-source TypeScript library built on Google Blockly that renders one block
 model in multiple developer-defined modes — supporting the gradual transition
