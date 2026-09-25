@@ -15,7 +15,7 @@ Each repository carries its own `LICENSE`; this is the overview.
 | Repository | License |
 | --- | --- |
 | [`morphic-blocks`](https://github.com/morphicblocks/morphic-blocks) (framework) | Apache-2.0 |
-| [`playground`](https://github.com/morphicblocks/playground) | Apache-2.0 |
+| [`playground`](https://github.com/morphicblocks/playground) | Apache-2.0 · MIT-0 (example apps in `apps/`, see `LICENSE-APPS`) |
 | [`docs`](https://github.com/morphicblocks/docs) | Apache-2.0 (site code) · CC BY 4.0 (written content) |
 | [`morphicblocks.com`](https://github.com/morphicblocks/morphicblocks.com) (website) | All rights reserved |
 | [`morphic-meta`](https://github.com/morphicblocks/morphic-meta) (brand assets) | All rights reserved |
